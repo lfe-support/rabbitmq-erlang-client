@@ -12,7 +12,6 @@
 /logs/
 /PACKAGES/
 /plugins/
-/rebar.config
 /rebar.lock
 /test/ct.cover.spec
 /xrefr
